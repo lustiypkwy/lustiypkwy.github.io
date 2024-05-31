@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lustiypkwy.github.io/rss/sitemap.txt
+Sitemap: https://lustiypkwy.github.io/rss/sitemap-index.txt
